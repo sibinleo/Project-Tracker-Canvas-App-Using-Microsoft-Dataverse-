@@ -1,0 +1,1 @@
+This solution provide Project Tracker application using power apps canvas app and Microsoft data verse. We need to make use of standard tables like Accounts, Users and custom tables like projects and Project Tasks.
